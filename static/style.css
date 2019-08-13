@@ -66,3 +66,7 @@ img {
     top: 62%;
     left: 41%;
 }
+
+.card-img-top{
+    margin:0;
+}
