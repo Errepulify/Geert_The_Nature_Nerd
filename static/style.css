@@ -2,11 +2,18 @@ body {
     height: 100%;
 }
 
-h2, .h2 {
+h2,
+.h2 {
     margin-left: 1.5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     font-size: 1.9rem;
+}
+
+.logo {
+    margin-right: 7rem;
+    width: 30%;
+    height: 20%;
 }
 
 .jumbotron {
