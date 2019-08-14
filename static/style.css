@@ -54,6 +54,13 @@ h2,
     padding-top: 20px;
 }
 
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #6a907b;
+}
+
+svg {
+    margin-right: 0.3rem;
+
 /*body {
     
     height: 100%;
