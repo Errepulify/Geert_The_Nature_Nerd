@@ -2,6 +2,13 @@ body {
     height: 100%;
 }
 
+h2, .h2 {
+    margin-left: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 1.9rem;
+}
+
 .jumbotron {
     margin-left: -0.9rem;
     margin-right: -0.9rem;
