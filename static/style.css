@@ -48,8 +48,11 @@ h2,
     left: 14%;
 }
 
-
-
+.navbar-nav>.active>a {
+    border-bottom: 1px solid #6a907b;
+    width: 19%;
+    padding-top: 20px;
+}
 
 /*body {
     
@@ -94,9 +97,7 @@ img {
     border-bottom: 1px solid #6a907b;
 }
 
-.nav-link:active{
-    color:green;
-}
+
 
 .jumbotron {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/108148/pexels-photo-108148.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
