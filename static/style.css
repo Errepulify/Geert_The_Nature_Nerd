@@ -16,7 +16,7 @@ h2,
     height: 20%;
 }
 
-.jumbotron {
+.jumbotron{
     margin-left: -0.9rem;
     margin-right: -0.9rem;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/108148/pexels-photo-108148.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
@@ -27,6 +27,18 @@ h2,
     position: relative;
     padding: 10rem 2rem;
 
+}
+
+.southafrica{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.ibb.co/fYnHfhF/olifant.jpg");
+}
+
+.costarica{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.ibb.co/fYnHfhF/olifant.jpg");
+}
+
+.namibia{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://i.ibb.co/Z11Cyvf/savanah.jpg");
 }
 
 .display-5 {
