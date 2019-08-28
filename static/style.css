@@ -163,6 +163,10 @@ svg {
     .logo{
         margin-right:16rem;
     }
+    
+    .navbar-nav>.active>a {
+    width: 9%;
+}
 }
 
 /*body {
