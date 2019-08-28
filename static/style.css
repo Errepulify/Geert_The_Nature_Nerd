@@ -153,6 +153,18 @@ svg {
     margin-bottom: 0.5rem;
 }
 
+@media (min-width: 768px) {
+    
+    body{
+        background-color:red;
+    }
+    
+    /*Logo styling in the navigation bar*/
+    .logo{
+        margin-right:16rem;
+    }
+}
+
 /*body {
     
     height: 100%;
