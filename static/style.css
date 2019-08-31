@@ -206,7 +206,8 @@ svg {
 /*------------------------------@media for Tablets (min-width: 768px)-----------------------------------*/
 
 @media (min-width: 768px) {
-    /*Styling on all pages*/
+
+    /*------------------Styling on all pages--------------------*/
     /*Footer styling*/
     footer {
         line-height: 100px;
@@ -277,7 +278,15 @@ svg {
 
 
 @media (min-width: 993px) {
-
+    /*------------------On all pages--------------------*/
+    /*Logo styling*/
+    .logo {
+        width: 20%;
+    }
+    /*Footer styling*/
+    footer {
+        margin-top: 1rem;
+    }
     .fa-home {
         margin-left: -6rem
     }
@@ -300,6 +309,19 @@ svg {
     .h2 {
         margin-left: 21rem;
     }
+    /*------------------south-africa.html--------------------*/
+    /*Pictures styling*/
+    .rhinopadultpicture {
+        height: 32%;
+    }
+    .picturemargin1 {
+        height: 27.5%;
+    }
+    .dunes {
+        height: 31.9%;
+    }
+
+    /*------------------contact.html--------------------*/
     /*Form styling*/
     form {
         padding-left: 7rem;
