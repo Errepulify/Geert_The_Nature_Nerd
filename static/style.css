@@ -312,11 +312,16 @@ svg {
     /*------------------south-africa.html--------------------*/
     /*Pictures styling*/
     .rhinopadultpicture {
-        height: 32%;
+        height: 32.4%;
     }
     .picturemargin1 {
         height: 27.5%;
     }
+    
+    .landscape{
+        height: 27.8%;
+    }
+    
     .dunes {
         height: 31.9%;
     }
