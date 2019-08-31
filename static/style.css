@@ -207,7 +207,6 @@ svg {
 
 @media (min-width: 768px) {
     /*Styling on all pages*/
-   
     /*Footer styling*/
     footer {
         line-height: 100px;
@@ -262,10 +261,23 @@ svg {
     .rhinoyoungpicture {
         height: 27.7%;
     }
+    /*form styling*/
+    form {
+        margin-left: 7rem;
+    }
+    .form-check-label {
+        margin-left: 5rem;
+    }
+    .btn {
+        font-size: 1.2rem;
+        margin-left: 12rem;
+    }
 }
 
+
+
 @media (min-width: 993px) {
-  
+
     .fa-home {
         margin-left: -6rem
     }
@@ -288,5 +300,16 @@ svg {
     .h2 {
         margin-left: 21rem;
     }
+    /*Form styling*/
+    form {
+        padding-left: 7rem;
+    }
+    .form-check-label {
+        margin-left: 15rem;
+    }
 
+    .btn {
+        margin-left: 22rem;
+        font-size: 1.5rem;
+    }
 }
