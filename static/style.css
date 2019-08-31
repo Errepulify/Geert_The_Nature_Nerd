@@ -171,9 +171,14 @@ svg {
 /*------------------------------@media for Tablets (min-width: 768px)-----------------------------------*/
 
 @media (min-width: 768px) {
-
+    /*Styling on all pages*/
     body {
         background-color: red;
+    }
+
+    /*Footer styling*/
+    footer {
+        line-height: 100px;
     }
 
     /*Toggler styling*/
@@ -212,21 +217,21 @@ svg {
     .card-deck .card {
         margin-bottom: 2rem;
     }
-    /*Footer styling*/
-    footer {
-        line-height: 100px;
+/*Styling for the header under the jumbotron image*/
+    .header h1 {
+        font-size: 2rem;
     }
-}
 
-.rhinopadultpicture{
-    height:28%;
-}
+    /*--------------------------------south-africa.html*-----------------------------------*/
+    .rhinopadultpicture {
+        height: 28%;
+    }
 
-.rhinoyoungpicture{
-    height:27.7%;
-}
+    .rhinoyoungpicture {
+        height: 27.7%;
+    }
 
-/*body {
+    /*body {
     
     height: 100%;
 }
