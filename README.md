@@ -204,7 +204,7 @@ This project was developed using the [AWS Cloud9 IDE](https://aws.amazon.com/clo
 To deploy this project to GitHub Pages from its GitHub repository, the following steps were done:
 
 1. Log into GitHub account.
-2. From the list of repositories on the screen, select Errepulify/Repositories/wildlife-globe-explorer
+2. From the list of repositories on the screen, select Errepulify/Repositories/Geert_the_nature_nerd
 3. From the menu items near the top of the page, select Settings.
 4. Scroll down to the GitHub Pages section.
 5. Under Source click the drop-down menu labelled None and select Master Branch
@@ -230,7 +230,9 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 ## Media
 
 - The jumbotron picture on the about me page is from [unsplash](https://images.unsplash.com/photo-1452587925148-ce544e77e70d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=801)
-- The jumbotron picture on the contact page is from [iprodev](https://www.iprodev.com/wp-content/uploads/youchai.jpg)
+- The jumbotron picture on the email sent is from [iprodev](https://www.iprodev.com/wp-content/uploads/youchai.jpg)
+- The jumbotron picture on the contact page is from [unsplash](https://images.unsplash.com/photo-1461958508236-9a742665a0d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60)
+- This picture is taken by Frances Vugts who is a friend [big daddy](https://i.ibb.co/2cJvhtZ/bigdaddy.jpg)
 - All the other pictures are by myself: Geert
 
 ## Code
@@ -242,3 +244,12 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 - I received inspiration for this project from the travels i been on to.
 - My mentor Juan Monetti who helped and explained me alot.
 - Special thanks to the tutor team of Code Institute to answer all my questions I had during this milestone project.
+
+
+# Contact
+To contact me feel free to email me to address below:
+
+ `geert.developer@gmail.com`
+
+## Disclaimer
+The content of this website is educational purposes only.
