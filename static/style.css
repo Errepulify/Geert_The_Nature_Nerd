@@ -317,13 +317,17 @@ svg {
     .picturemargin1 {
         height: 27.5%;
     }
-    
-    .landscape{
+
+    .landscape {
         height: 27.8%;
     }
-    
+
     .dunes {
         height: 31.9%;
+    }
+    
+    .bigdaddy{
+        height:32.5%;
     }
 
     /*------------------contact.html--------------------*/
@@ -339,4 +343,14 @@ svg {
         margin-left: 22rem;
         font-size: 1.5rem;
     }
+}
+
+@media (min-width: 1600px) {
+    .lead {
+        margin-left: 27rem;
+    }
+    
+    h2, .h2 {
+    margin-left: 38rem;
+}
 }
