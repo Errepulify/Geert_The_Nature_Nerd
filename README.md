@@ -1,4 +1,4 @@
-# Wild Globe Explorer
+# Geert the Nature Nerd
 
 <div align="center">
 <img src="https://i.ibb.co/7b10jy7/responsive.png" alt="Screenshot-6" border="0"></a>
@@ -8,7 +8,7 @@ I like to travel around the world and take pictures.
 These pictures I wanted to show to you and how beautifull nature and wildlife can be!
 I hope you enjoy it as much as I did.
 
-The link to live page: [Wildlife Globe Explorer](https://errepulify.github.io/Geert_the_nature_nerd/)
+The link to live page: [Geert the Nature Nerd](https://errepulify.github.io/Geert_the_nature_nerd/)
 
 
 ## UX
